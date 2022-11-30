@@ -1,9 +1,0 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
-http://119.126.158.186:29991/stream/channelid/1593830901
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",无线新闻台
-http://119.126.158.186:29991/stream/channelid/1936554890
-#EXTINF:-1,无线资讯台
-http://119.126.158.186:29991/stream/channelid/628426772
-#EXTINF:-1,美亚电影
-http://119.126.158.186:29991/stream/channelid/1170687529
